@@ -1,1 +1,2 @@
 Emxample of Git
+new line added

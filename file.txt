@@ -1,2 +1,3 @@
 Emxample of Git
 new line added
+added some line for CICD pipeline connected
